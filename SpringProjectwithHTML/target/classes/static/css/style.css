@@ -1,0 +1,16 @@
+body{
+	background-color:pink
+}
+h1{
+	backgroundcolor:pink;
+	color:blue;
+	text-align:center;
+}
+img{
+	margin:4px;
+	padding:20px;
+	border:3px;
+	height:200px;
+	weight:150px;
+	border-radius:50%;
+	}
